@@ -1,0 +1,189 @@
+{
+  "clear!": {
+    "menuScale": {
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "resourceId": "artifact:1930012831852265635",
+    "menuPosition": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 380,
+      "z": 0
+    }
+  },
+  "options": {
+    "previewMargin": 5
+  },
+  "Demond Bay": {
+    "scale": {
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "position": {
+      "x": -0.01,
+      "y": -0.3,
+      "z": 0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 280,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:2115464460188516751",
+    "attachPoint": "head"
+  },
+  "Skull Mask": {
+    "scale": {
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "position": {
+      "x": 0.02,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "rotation": {
+      "x": 0,
+      "y": 280,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:2115464421651251580",
+    "attachPoint": "head"
+  },
+  "Clown Masskkk": {
+    "scale": {
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "position": {
+      "x": 0.02,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:2115464446951293317",
+    "attachPoint": "head"
+  },
+  "Scary Lady Mask": {
+    "scale": {
+      "x": 0.15,
+      "y": 0.15,
+      "z": 0.15
+    },
+    "position": {
+      "x": 0.01,
+      "y": 0.05,
+      "z": 0.2
+    },
+    "rotation": {
+      "x": 0,
+      "y": 280,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:2115464473165693329",
+    "attachPoint": "head"
+  },
+  "Scaryfacenoeyes": {
+    "scale": {
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "position": {
+      "x": 0.01,
+      "z": 0.2
+    },
+    "rotation": {
+      "x": 0,
+      "y": 280,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:2115464434762645890",
+    "attachPoint": "head"
+  },
+  "Sweetistmaskcastty": {
+    "scale": {
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "position": {
+      "x": 0.02,
+      "y": 0.05,
+      "z": 0.2
+    },
+    "rotation": {
+      "x": 0,
+      "y": 280,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:2115464486797181383",
+    "attachPoint": "head"
+  },
+  "Knife For Stabbbing": {
+    "scale": {
+      "x": 1,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "position": {
+      "x": 0.05,
+      "y": 0.1,
+      "z": 0.1
+    },
+    "rotation": {
+      "x": 50,
+      "y": 150,
+      "z": 250
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:2115792784291005081",
+    "attachPoint": "right-hand"
+  }
