@@ -13,39 +13,39 @@ const DEBUG = false;
  * The structure of a hat entry in the hat database.
  */
 type HatDescriptor = {
-    resourceId: string;
-    attachPoint: string;
+    resourceId:2115464460188516751;
+    attachPoint:head;
     scale: {
-        x: number;
-        y: number;
-        z: number;
+        x: 0.2;
+        y: 0,2;
+        z: 0.2;
     };
     rotation: {
-        x: number;
-        y: number;
-        z: number;
+        x: -0.01;
+        y: -0.3;
+        z: 0.01;
     };
     position: {
-        x: number;
-        y: number;
-        z: number;
+        x: -0.01;
+        y: 0.3;
+        z: 0.01;
     };
     menuScale: {
-        x: number;
-        y: number;
-        z: number;
+        x: 0.5;
+        y: 0.5;
+        z: 0.5;
     };
     menuRotation: {
-        x: number;
-        y: number;
-        z: number;
+        x: 0;
+        y: 0;
+        z: 0;
     };
     menuPosition: {
-        x: number;
-        y: number;
-        z: number;
+        x: 1;
+        y: 1;
+        z: 1;
     };
-    previewMargin: number;
+    previewMargin: 5;
 };
 
 /**
